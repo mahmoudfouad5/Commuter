@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578038726673",
+    "project_id": "commuter-5d00c",
+    "storage_bucket": "commuter-5d00c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578038726673:android:e4e5f75bdb58972bb371b0",
+        "android_client_info": {
+          "package_name": "com.example.logo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578038726673-e88820c8vbbspug9lr8073uqfpvjuasa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIqEm5rHB4fw_-jcduZlnmrZ4eUbE5Dlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578038726673-e88820c8vbbspug9lr8073uqfpvjuasa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
